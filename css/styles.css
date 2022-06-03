@@ -858,7 +858,7 @@ select::-ms-expand {
 }
 
 .sp-nav.is-active {
-  display: block;
+  display: none;
 }
 
 .sp-nav__items {
